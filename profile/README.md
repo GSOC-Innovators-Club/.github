@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" height="30%" src="./assets/logo.png">
+  <img width="30%" height="30%" src="../assets/logo.png">
 </p>
 <h1 align="center">
     GSOC Innovators Club
